@@ -1,5 +1,3 @@
-#edited after cloning in vs code using git command
-
 # 🎮 Rock-Paper-Scissors Game
 
 An engaging and interactive **Rock-Paper-Scissors** game crafted with **HTML**, **CSS**, and **JavaScript**. This project showcases clean, modular code and best practices in front-end development—perfect for developers exploring event handling, DOM manipulation, and responsive design.
