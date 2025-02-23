@@ -1,3 +1,5 @@
+#edited after cloning in vs code using git command
+
 # 🎮 Rock-Paper-Scissors Game
 
 An engaging and interactive **Rock-Paper-Scissors** game crafted with **HTML**, **CSS**, and **JavaScript**. This project showcases clean, modular code and best practices in front-end development—perfect for developers exploring event handling, DOM manipulation, and responsive design.
@@ -7,15 +9,19 @@ An engaging and interactive **Rock-Paper-Scissors** game crafted with **HTML**, 
 ## 🚀 **Key Techniques and Features**
 
 - 🎯 **Event Handling with [`addEventListener`](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)**
+
   - Captures user interactions to handle click events seamlessly.
 
 - 🎲 **Random Number Generation**
+
   - Uses [`Math.random()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random) and [`Math.floor()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor) to simulate the computer's unpredictable moves.
 
 - 🛠️ **Dynamic DOM Manipulation**
+
   - Updates scores and messages live with [`textContent`](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent) and [`innerHTML`](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML).
 
 - 🎨 **Interactive CSS Hover Effects**
+
   - Visual feedback on user interaction via the [`:hover`](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover) pseudo-class.
 
 - 📐 **Responsive Flexbox Layout**
@@ -46,18 +52,21 @@ An engaging and interactive **Rock-Paper-Scissors** game crafted with **HTML**, 
 ```
 
 ### 🖼️ **Images Directory**
+
 Holds all visual assets for the game. Each image corresponds to a player choice or the site's favicon.
 
 ### 📄 [index.html](./index.html)
+
 The core file structuring the game's UI, linking external CSS and JavaScript resources.
 
 ### 🎨 [RPS.css](./RPS.css)
+
 Manages the visual styling, layout, hover effects, and overall aesthetic.
 
 ### 🔍 [RPS.js](./RPS.js)
+
 Contains the interactive logic for scorekeeping, random computer move generation, and dynamic game updates.
 
 ---
 
 Enjoy coding and let the best choice win! 🤖✌️
-
