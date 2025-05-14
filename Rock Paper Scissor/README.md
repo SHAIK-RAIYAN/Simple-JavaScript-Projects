@@ -68,3 +68,10 @@ Contains the interactive logic for scorekeeping, random computer move generation
 ---
 
 Enjoy coding and let the best choice win! 🤖✌️
+
+<hr>
+
+⭐ **Show Some Love**  
+If you enjoy this project, drop a star ⭐ on the repo and share your thoughts! 🚀
+
+💡 Made with ❤️ by [SHAIK-RAIYAN](https://github.com/SHAIK-RAIYAN).
