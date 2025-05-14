@@ -38,3 +38,10 @@ This project is built using vanilla HTML, CSS, and JavaScript. No external libra
 
 This project uses system fonts and does not rely on external font libraries.
 
+<hr>
+
+⭐ **Show Some Love**  
+If you enjoy this project, drop a star ⭐ on the repo and share your thoughts! 🚀
+
+💡 Made with ❤️ by [SHAIK-RAIYAN](https://github.com/SHAIK-RAIYAN).
+
