@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Tic Tac Toe Game 🎮
 
 A simple, interactive Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**. This project focuses on delivering a clean, responsive design and a smooth user experience. It’s an ideal demonstration of modern front-end techniques without relying on external libraries or frameworks.
 
